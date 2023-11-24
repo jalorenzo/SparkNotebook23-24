@@ -1,0 +1,9 @@
+Celia	17
+Juan	53
+Manuela	39
+Ana	17
+Paco	53
+Luis	40
+Antonio	39
+Angel	40
+Yannick	50
